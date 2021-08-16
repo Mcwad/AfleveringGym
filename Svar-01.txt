@@ -1,12 +1,12 @@
 1) ÆØÅ vises korrekt
-2) Resultatet er false, fordi at 3,3 og 1,1 ikke kan blive repræsenteret korrekt i et binært talsystem
-3)
+2) Resultatet er false, fordi 3,3 og 1,1 ikke kan blive repræsenteret korrekt i et binært talsystem
+3) Svaret er false, fordi 1,1 ikke kan blive repræsenteret korrekt i et binært talsystem
 4)
 cls = clear screen (fjerner alt på skærmen)
 dir = viser alle filer og mapper inden for den nuværende directory
 md = laver en directory
 rd = fjerner en directory
 chdir = skifter til en anden directory
-path = viser 
+path = viser directories
 5) Omkring 25%
 6) 1/16 tik eller 1/8 tik
